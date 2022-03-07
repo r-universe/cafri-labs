@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "package": "unifir"
+  },
+  {
+    "package": "terrainr",
+    "oncran": true
+  }
+]
