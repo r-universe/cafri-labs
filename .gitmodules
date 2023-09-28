@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/cafri-labs/universe
-	shallow = true
 	branch = HEAD
-[submodule "unifir"]
-	path = unifir
-	url = https://github.com/mikemahoney218/unifir
-	shallow = true
-	registered = true
 [submodule "terrainr"]
 	path = terrainr
 	url = https://github.com/ropensci/terrainr
-	shallow = true
-	registered = true
+[submodule "unifir"]
+	path = unifir
+	url = https://github.com/mikemahoney218/unifir
