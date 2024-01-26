@@ -10,7 +10,7 @@
 	url = https://github.com/ropensci/terrainr
 [submodule "unifir"]
 	path = unifir
-	url = https://github.com/mikemahoney218/unifir
+	url = https://github.com/ropensci/unifir
 [submodule "waywiser"]
 	path = waywiser
 	url = https://github.com/ropensci/waywiser
