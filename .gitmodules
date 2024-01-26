@@ -1,10 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/cafri-labs/universe
+	url = https://github.com/cafri-labs/cafri-labs.r-universe.dev
 	branch = HEAD
+[submodule "rsi"]
+	path = rsi
+	url = https://github.com/Permian-Global-Research/rsi
 [submodule "terrainr"]
 	path = terrainr
 	url = https://github.com/ropensci/terrainr
 [submodule "unifir"]
 	path = unifir
 	url = https://github.com/mikemahoney218/unifir
+[submodule "waywiser"]
+	path = waywiser
+	url = https://github.com/ropensci/waywiser
